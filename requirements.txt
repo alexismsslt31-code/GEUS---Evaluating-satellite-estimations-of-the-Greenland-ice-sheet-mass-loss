@@ -1,0 +1,18 @@
+# Installation : pip install -r requirements.txt
+
+numpy
+pandas
+matplotlib
+scipy
+statsmodels
+scikit-learn
+xarray
+rioxarray
+rasterio
+geopandas
+cartopy
+pyproj
+netCDF4
+dask
+ruptures
+pystac-client
